@@ -1,6 +1,6 @@
 
 ## Hello World 👋
-<img alt="My banner" src="EthicalTomas Logoheader.png" width="" height="" align=""> 
+<img alt="My banner" src="Logoheader.png" width="1200" height="650" align="center"> 
 
 My name is Oladejo Anuoluwatomiwa also known as Cyber-Tomas I am a student at Obafemi Awolowo University studying Computer Science with Mathematics.
 I love to learn new things and learn pretty fast, i'm currently interested in/learning CyberSecurity and how to implement and defend against AI in Cybersecurity.
